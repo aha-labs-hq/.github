@@ -17,7 +17,8 @@ and follows up on progress. Runs on your Mac, with your own ChatGPT.
 
 **[Galta](https://galta.art/en/)** — An AI canvas that lives in your browser.
 Collect web references, then create images, films, and interactive pages
-beside them. Your work and history stay local. Early access applications are open.
+beside them. Your work and history stay local. Early access applications are open,
+and the [source](https://github.com/aha-labs-hq/galta-source) is public.
 
 ---
 
